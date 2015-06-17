@@ -22,7 +22,7 @@ h6 {
 }
 
 .lead {
-    font-size: 18px;
+    font-size: 22px;
     font-weight: 400;
 }
 
@@ -166,7 +166,7 @@ p.copyright {
 }
 
 #logo_telecom {
-    width: 40%;
+    width: 50%;
 }
 
 #img_selfie {
@@ -175,4 +175,8 @@ p.copyright {
 
 #img_masa {
     width: 60%;
+}
+
+#img_dessin {
+    width: 80%;
 }
