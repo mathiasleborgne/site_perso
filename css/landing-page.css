@@ -1,4 +1,4 @@
-/*!
+*!
  * Start Bootstrap - Landing Page Bootstrap Theme (http://startbootstrap.com)
  * Code licensed under the Apache License v2.0.
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
@@ -163,4 +163,16 @@ footer {
 
 p.copyright {
     margin: 15px 0 0;
+}
+
+#logo_telecom {
+    width: 40%;
+}
+
+#img_selfie {
+    height: 400px;
+}
+
+#img_masa {
+    width: 60%;
 }
